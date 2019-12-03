@@ -1,0 +1,1 @@
+SELECT * FROM alugueis_2019
